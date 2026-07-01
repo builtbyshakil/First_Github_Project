@@ -2,11 +2,13 @@
 #Git Command 
 
 git init                            #Only Firts time when repository created
-git add .                           #after every code change
+git add .                           #after every code change  # Code change korle save kore then git add . korte hobe
 git commit -m "first commit"        #after every code change
-git branch -M main
-git remote add origin https://github.com/builtbyshakil/First_Github_Project.git
+git branch -M main                  #Only Firts time when repository created
+git remote add origin https://github.com/builtbyshakil/First_Github_Project.git  #Only Firts time when repository created #protita new repository ey link change hoy
 git push -u origin main             #after every code change
+
+
 
 
 git remote add origin https://github.com/builtbyshakil/First_Github_Project.git
