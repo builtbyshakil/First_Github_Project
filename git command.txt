@@ -1,12 +1,12 @@
-#bhbu
 
-git init                            #Only Firts time when repository create
-git add .                           #after evry code change
-git commit -m "first commit"        #after evry code change
+#Git Command 
+
+git init                            #Only Firts time when repository created
+git add .                           #after every code change
+git commit -m "first commit"        #after every code change
 git branch -M main
 git remote add origin https://github.com/builtbyshakil/First_Github_Project.git
-git push -u origin main             #after evry code change
-
+git push -u origin main             #after every code change
 
 
 git remote add origin https://github.com/builtbyshakil/First_Github_Project.git
